@@ -1,0 +1,18 @@
+# Database Configuration
+database:
+  host: ""
+  port: ""
+  db_name: ""
+  user: ""
+  password: ""
+
+# Pool Connections Configuration
+pool:
+  max-size: 10
+  idle-timeout: 30000
+
+discord:
+  token: "YOUR_TOKEN_HERE"
+  guild-id: "YOUR_GUILD_ID_HERE"
+  channels:
+    logs: "CHANNEL_LOGS_ID_HERE"

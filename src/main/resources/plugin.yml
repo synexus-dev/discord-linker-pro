@@ -1,0 +1,5 @@
+name: Discord Linker Pro
+version: '1.0-SNAPSHOT'
+main: App
+api-version: '1.21'
+
