@@ -1,5 +1,5 @@
-name: Discord Linker Pro
-version: '1.0-SNAPSHOT'
-main: App
+name: DiscordLinkerPro
+version: '${version}'
+main: application.App
 api-version: '1.21'
 
