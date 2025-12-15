@@ -2,9 +2,9 @@ name: Build Synexus Plugin
 
 on:
   push:
-    branches: [ "main", "dev"]
+    branches: [ "main"]
   pull_request:
-    branches: [ "main", "dev" ]
+    branches: [ "main", "0.1.0-BETA" ]
 
 jobs:
   build:
