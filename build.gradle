@@ -18,6 +18,7 @@ repositories {
 dependencies {
     compileOnly("io.papermc.paper:paper-api:1.21.11-R0.1-SNAPSHOT")
     implementation 'com.gradleup.shadow:com.gradleup.shadow.gradle.plugin:9.3.0'
+    implementation 'org.projectlombok:lombok:1.18.42'
 }
 
 tasks {

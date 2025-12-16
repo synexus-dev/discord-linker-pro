@@ -2,7 +2,7 @@
 database:
   host: ""
   port: ""
-  db_name: ""
+  db-name: ""
   user: ""
   password: ""
 
@@ -12,7 +12,7 @@ pool:
   idle-timeout: 30000
 
 discord:
-  token: "YOUR_TOKEN_HERE"
-  guild-id: "YOUR_GUILD_ID_HERE"
+  bot-token: "YOUR_TOKEN_HERE"
+  server-id: "YOUR_GUILD_ID_HERE"
   channels:
     logs: "CHANNEL_LOGS_ID_HERE"
