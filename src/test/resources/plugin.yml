@@ -1,5 +1,5 @@
 name: DiscordLinkerPro
 version: '${version}'
-main: application.App
+main: dev.synexus.discordlinkerpro.application.App
 api-version: '1.21'
 

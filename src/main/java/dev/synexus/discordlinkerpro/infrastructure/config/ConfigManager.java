@@ -1,4 +1,4 @@
-package infrastructure.config;
+package dev.synexus.discordlinkerpro.infrastructure.config;
 
 import lombok.Getter;
 import lombok.Setter;

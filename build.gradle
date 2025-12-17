@@ -31,6 +31,8 @@ dependencies {
     testCompileOnly "org.projectlombok:lombok:1.18.42"
     testAnnotationProcessor "org.projectlombok:lombok:1.18.42"
 
+    implementation 'net.dv8tion:JDA:6.2.0'
+
 }
 
 tasks {

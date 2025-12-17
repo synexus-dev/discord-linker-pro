@@ -1,5 +1,6 @@
-package infrastructure.config;
+package dev.synexus.discordlinkerpro.infrastructure.config;
 
+import dev.synexus.discordlinkerpro.infrastructure.config.ConfigManager;
 import org.bukkit.configuration.file.FileConfiguration;
 import org.junit.jupiter.api.Test;
 import org.bukkit.plugin.java.JavaPlugin;
