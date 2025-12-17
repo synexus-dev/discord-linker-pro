@@ -1,0 +1,5 @@
+name: DiscordLinkerPro
+version: '${version}'
+main: application.App
+api-version: '1.21'
+
