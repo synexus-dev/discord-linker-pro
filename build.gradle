@@ -32,7 +32,7 @@ dependencies {
     testAnnotationProcessor "org.projectlombok:lombok:1.18.42"
 
     implementation 'net.dv8tion:JDA:6.2.0'
-
+    implementation 'com.zaxxer:HikariCP:7.0.2'
 }
 
 tasks {
