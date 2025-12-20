@@ -8,8 +8,8 @@ import java.util.Optional;
 @Data
 public class SynexusPlayer {
     private final Player bukkitPlayer;
-    private AccountLink activeLink; // Pode ser null se não estiver vinculado
-    private boolean isDirty; // Flag para saber se precisa salvar algo ao sair
+    private AccountLink activeLink;
+    private boolean isDirty;
 
     public SynexusPlayer(Player player) {
         this.bukkitPlayer = player;
